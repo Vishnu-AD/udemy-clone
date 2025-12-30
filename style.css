@@ -67,7 +67,7 @@ body {
     right: 0px;
     display: none;
 }
-.mylearning:hover{
+.mylearning:hover .mylearning__popup{
     display: block;
 }
 
